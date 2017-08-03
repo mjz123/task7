@@ -1,14 +1,11 @@
 html {
     font-size: 62.5%;
     height: 100%;
-
 }
 body {
     margin: 0;
     height: 100%;
-    flex-direction: column;
     overflow: hidden;
-
 }
 header {
     position: fixed;
@@ -94,11 +91,19 @@ footer div {
     border-radius: 0.5rem;
 }
 .left {
-    margin-right: 2rem;
     background-color: red;
+    width: 100%;
+    color: #000000;
 }
 .right {
     background: orange;
+    margin-left: 2rem;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
 }
 
 
