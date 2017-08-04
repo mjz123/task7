@@ -92,15 +92,11 @@ li {
 li:hover {
     background: #29bde0;
 }
-.edition button {
+.edition img {
     position: absolute;
     top:44%;
     right: 3%;
-    background: #fff;
-    border: 0;
-    outline: none;
 }
-
 a:hover{
     text-decoration: none;
 }

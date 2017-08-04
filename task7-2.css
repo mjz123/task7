@@ -58,9 +58,6 @@ p {
 .container{
     padding-bottom: 3.5rem;
 }
-.row {
-    padding: 0 2rem;
-}
 .box {
     height: 7rem;
     width: 7rem;
@@ -78,6 +75,9 @@ p {
     background: #83b09a;
     height: 2rem;
     line-height: 2rem;
+}
+.col-xs-4 {
+    padding: 0;
 }
 ul {
     padding: 1rem 0 0;
